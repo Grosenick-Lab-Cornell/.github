@@ -1,6 +1,6 @@
-# 🧠 Grosenick Lab at Weill Cornell Medicine
+# 🧠 Grosenick Lab 
 
-We develop machine learning tools and neurotechnologies to decode brain function, model mental illness, and build precision psychiatry applications. Our research spans graph neural networks, multimodal learning, dimensionality reduction, and large-scale neural data analysis.
+We develop machine learning tools and neurotechnologies to decode brain function, model mental illness, and build precision psychiatry applications. Our research spans graph neural networks, multimodal learning, dimensionality reduction, and large-scale neural data collection and analysis.
 
 ## 🔬 Featured Projects
 
@@ -17,13 +17,13 @@ Simple and scalable algorithms for cluster-aware precision medicine. This projec
   A comprehensive pipeline for processing video files to perform speaker diarization and extract a rich set of features encompassing acoustic, linguistic, and facial data.
 
 - **[CLEAN](https://github.com/Grosenick-Lab-Cornell/CLEAN)**  
-  [Coming Soon] Tools for data cleaning and preprocessing pipelines for neuroscience and clinical data.
+  [Coming Soon] Tools for data cleaning and preprocessing pipelines for EEG and clinical data.
 
 ## 🌐 Connect
 
 - Website: [grosenicklab.org](https://grosenicklab.org)
-- Publications, datasets, and open-source tools for systems neuroscience and computational psychiatry.
-
+- Bluesky: logangrosenick.bsky.social
+- Twitter/X: logangrosenick
 ---
 
 *Want to contribute? Reach out or open an issue on any project above.*
