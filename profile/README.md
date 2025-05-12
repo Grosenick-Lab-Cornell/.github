@@ -10,7 +10,7 @@ We develop machine learning tools and neurotechnologies to decode brain function
 - **[EpiCare](https://github.com/Grosenick-Lab-Cornell/EpiCare)**  
   A reinforcement learning benchmark for dynamic treatment regimes in healthcare. It includes simulated episodes of care with realistic reward sparsity, partial observability, and heterogeneous treatment effects. [NeurIPS 2024](https://neurips.cc/virtual/2024/poster/97595)
 
-- **[CARVE-AI](https://github.com/Grosenick-Lab-Cornell/CARVE-AI)**  
+- **[CARVE-AI][coming soon]**  
 Simple and scalable algorithms for cluster-aware precision medicine. This project focuses on developing methods that enhance precision medicine by incorporating clustering techniques to identify patient subgroups, aiming to improve treatment strategies and healthcare outcomes. [AISTATS 2024 Paper](https://proceedings.mlr.press/v238/buch24a/buch24a.pdf)
 
 - **[MultimodalFeatureSync](https://github.com/Grosenick-Lab-Cornell/MultimodalFeatureSync)**  
